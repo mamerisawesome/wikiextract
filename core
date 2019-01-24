@@ -1,0 +1,6 @@
+source py_modules/bin/activate
+
+if [ "$1" = "run" ]; then
+    jupyter notebook
+fi
+
