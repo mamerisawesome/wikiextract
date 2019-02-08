@@ -1,2 +1,9 @@
-wikipedia
-sqlite3
+numpy
+pandas
+pandas-compat
+matplotlib
+sklearn
+gensim
+nltk
+jupyter
+
