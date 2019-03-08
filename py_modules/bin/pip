@@ -1,4 +1,4 @@
-#!/home/mamerisawesome/git/wikiextract/py_modules/bin/python3
+#!/home/mamerisawesome/git/wikiextract/py_modules/bin/python2
 
 # -*- coding: utf-8 -*-
 import re
