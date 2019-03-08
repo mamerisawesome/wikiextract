@@ -6,4 +6,4 @@ sklearn
 gensim
 nltk
 jupyter
-
+pyLDAvis
